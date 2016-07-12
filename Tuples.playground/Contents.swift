@@ -12,7 +12,7 @@ result.1
 print("Success? \(result.0)")
 print("Message: \(result.1)")
 
-let person = (name: "Jim", age: 30)
+let person = (name: "Scott Summer", age: 38)
 person.age
 person.name
 print("\(person.name)'s age is \(person.age)")
